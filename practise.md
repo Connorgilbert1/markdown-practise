@@ -37,26 +37,7 @@
   Quickly access all your saved
   pictures. </li>
 	<br>
-<li> Find files
-  Quickly access your Documents
-  folder. </li>
-	<br>
-<li> Browse every app
-Scroll up and down to view all
-your apps. </li>
-	<br>
-<li> Group apps
-	Drag apps into groups, press
-	and hold (or right-click) to resize,
-	and select the title space to give
-	the group a new name or more
-	personalized name. </li>
-	<br>
-<li> Most used apps
-  Use an app all the time? Pin it by
-  pressing and holding (or rightclicking on it) and select “Pin to
-  Start. </li>
-	<br>
+
 </ol>
   
   

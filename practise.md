@@ -21,7 +21,7 @@
 ## Quick Start Guide
 
 ![Quick Start Guide](https://user-images.githubusercontent.com/61669097/118890003-12df1a00-b952-11eb-9b3e-218612d06ee0.png)
-<ol type="a">
+<ol type="A">
 <li> The Start button
   In the lower-left corner, it puts
   what you need at your fingertips.</li>
@@ -52,8 +52,4 @@ your apps. </li>
 </ol>
   
   
-  <ol type="a">
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ol>
+ 

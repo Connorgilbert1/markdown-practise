@@ -2,7 +2,7 @@
 
 ## index 
   * [Brief overview](#brief-overview)
-  * [Start menu guide](#Start-menu-guide)
+  * [Quick Start Guide](#Quick-Start-Guide)
   * Task bar guide
   * Action centre guide
   * 

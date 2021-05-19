@@ -21,35 +21,35 @@
 ## Quick Start Guide
 
 ![Quick Start Guide](https://user-images.githubusercontent.com/61669097/118890003-12df1a00-b952-11eb-9b3e-218612d06ee0.png)
-
-* The Start button
+<ol type="a">
+<li> The Start button
   In the lower-left corner, it puts
-  what you need at your fingertips.
-* Power options
-  On, off and restart.
-* Settings
+  what you need at your fingertips.</li>
+<li> Power options
+  On, off and restart. </li>
+<li> Settings
   Personalize the defaults. Monitors,
-  networks, printers, and more.
-* Find pictures
+  networks, printers, and more. </li>
+<li> Find pictures
   Quickly access all your saved
-  pictures.
-* Find files
+  pictures. </li>
+<li> Find files
   Quickly access your Documents
-  folder.
-* Browse every app
+  folder. </li>
+<li> Browse every app
 Scroll up and down to view all
-your apps.
-* Group apps
+your apps. </li>
+<li> Group apps
 	Drag apps into groups, press
 	and hold (or right-click) to resize,
 	and select the title space to give
 	the group a new name or more
-	personalized name.
-* Most used apps
+	personalized name. </li>
+<li> Most used apps
   Use an app all the time? Pin it by
   pressing and holding (or rightclicking on it) and select “Pin to
-  Start.
-  
+  Start. </li>
+</ol>
   
   
   <ol type="a">

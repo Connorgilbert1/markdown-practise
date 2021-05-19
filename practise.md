@@ -49,3 +49,11 @@ your apps.
   Use an app all the time? Pin it by
   pressing and holding (or rightclicking on it) and select “Pin to
   Start.
+  
+  
+  
+  <ol type="a">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>

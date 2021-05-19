@@ -37,7 +37,13 @@
   Quickly access all your saved
   pictures. </li>
 	<br>
-
+<li> Find files
+  Quickly access your Documents
+  folder. </li>
+	<br>
+<li> Browse every app
+Scroll up and down to view all
+your apps. </li>
 </ol>
   
   

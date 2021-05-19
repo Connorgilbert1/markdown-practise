@@ -30,22 +30,22 @@
 * Settings
   Personalize the defaults. Monitors,
   networks, printers, and more.
-Find pictures
-Quickly access all your saved
-pictures.
-	 Find files
-Quickly access your Documents
-folder.
-Browse every app
+* Find pictures
+  Quickly access all your saved
+  pictures.
+* Find files
+  Quickly access your Documents
+  folder.
+* Browse every app
 Scroll up and down to view all
 your apps.
-Group apps
-Drag apps into groups, press
-and hold (or right-click) to resize,
-and select the title space to give
-the group a new name or more
-personalized name.
-Most used apps
-Use an app all the time? Pin it by
-pressing and holding (or rightclicking on it) and select “Pin to
-Start.
+* Group apps
+	Drag apps into groups, press
+	and hold (or right-click) to resize,
+	and select the title space to give
+	the group a new name or more
+	personalized name.
+* Most used apps
+  Use an app all the time? Pin it by
+  pressing and holding (or rightclicking on it) and select “Pin to
+  Start.

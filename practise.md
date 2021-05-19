@@ -25,6 +25,7 @@
 <li> The Start button
   In the lower-left corner, it puts
   what you need at your fingertips.</li>
+<br>
 <li> Power options
   On, off and restart. </li>
 <li> Settings
